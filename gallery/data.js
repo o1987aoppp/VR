@@ -218,7 +218,7 @@ var APP_DATA = {
           "yaw": -1.9971394689719109,
           "pitch": -0.013182761278066835,
           "title": "Fairlady Z (Z34)",
-          "text": "第六代 Fairlady Z (代號Z34)，使用VQ37VHR V6自然進氣引擎搭配6速手排變速箱。與Skyline 12代(代號V36，海外為Infiniti Q50)共用底盤平台與引擎動力。"
+          "text": "第六代 Fairlady Z (代號Z34)，使用VQ37VHR V6自然進氣引擎搭配6速手排變速箱。與Skyline 12代(代號V36，海外為Infiniti G37)共用底盤平台與引擎動力。"
         }
       ]
     },
@@ -306,8 +306,8 @@ var APP_DATA = {
         {
           "yaw": 0.19396463340994963,
           "pitch": 0.03365933299924251,
-          "title": "Title",
-          "text": "Text"
+          "title": "Nissan GT-R GT3",
+          "text": "The NISSAN GT-R NISMO GT3, a racing car developed based on the regulations of the FIA GT3, is also a successor of the Nissan GT-R legacy. Since its launch in 2012, the NISMO GT3 has competed in GT3 races in which numerous global manufacturers compete for the victory.    NISSAN GT-R NISMO GT3是一款基於FIA GT3規則開發的賽車，也是日產GT-R傳奇的繼承者。 NISMO GT3自2012年上市以來，一直參與全球許多車廠角逐的GT3賽事。"
         }
       ]
     },
@@ -357,8 +357,8 @@ var APP_DATA = {
         {
           "yaw": 0.8357736745257629,
           "pitch": -0.05277949806913185,
-          "title": "Title",
-          "text": "Text"
+          "title": "Skyline",
+          "text": "第十三代 Skyline (代號V37)，配備3.0升V6雙渦輪增壓引擎(代號VR30DETT)與電動馬達或3.5升V6自然進氣引擎(代號VQ35HR)。海外與日本國內初期都以Infiniti Q50為名販售。"
         }
       ]
     }
