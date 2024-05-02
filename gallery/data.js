@@ -97,19 +97,19 @@ var APP_DATA = {
         {
           "yaw": 2.452156129391719,
           "pitch": 0.4268266286010878,
-          "title": "Fairlady Z (Z33) Roadster",
+          "title": "Fairlady Z (350Z) Roadster",
           "text": "第五代 Fairlady Z (代號Z33)，使用VQ35DE V6自然進氣引擎搭配五速手動變速箱，於2004年推出Roadster版本"
         },
         {
           "yaw": -0.23495886651439157,
           "pitch": 0.25207057807594424,
-          "title": "Fairlady Z (Z29)",
+          "title": "Fairlady Z (240Z)",
           "text": "第一代 Fairlady Z (代號S30/Z29)，使用L20A 2.0升直列六缸引擎搭配五速手動變速箱。<br>外銷至美國的版本名為Datsun 240Z，使用L24A 2.4升值列六缸引擎。"
         },
         {
           "yaw": -0.2705056082645587,
           "pitch": 0.6318576656682833,
-          "title": "Fairlady Z (Z32)",
+          "title": "Fairlady Z (300ZX)",
           "text": "第四代 Fairlady Z (代號Z32)，使用VG30DETT V6雙渦輪增壓引擎搭配五速手動和四速自動變速箱。引擎馬力預設原可到達300hp左右，但因日本推出君子協定使馬力下修至280hp，也是第一台向君子協定妥協的性能車。"
         }
       ]
@@ -217,8 +217,8 @@ var APP_DATA = {
         {
           "yaw": -1.9971394689719109,
           "pitch": -0.013182761278066835,
-          "title": "Fairlady Z",
-          "text": "Text"
+          "title": "Fairlady Z (Z34)",
+          "text": "第六代 Fairlady Z (代號Z34)，使用VQ37VHR V6自然進氣引擎搭配6速手排變速箱。與Skyline 12代(代號V36，海外為Infiniti Q50)共用底盤平台與引擎動力。"
         }
       ]
     },
