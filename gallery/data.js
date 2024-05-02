@@ -40,8 +40,8 @@ var APP_DATA = {
         {
           "yaw": 1.49582223918501,
           "pitch": -0.34871754048979753,
-          "title": "Title",
-          "text": "Text"
+          "title": "Nissan Gallery",
+          "text": "Nissan Glabal Headquarter Gallery 為 Nissan 位於橫濱的總部。做為日產於日本的火力展示場，內部除展出各種最新車型外，也收藏許多日產經典車款。為日產粉絲一生必去的景點之一。"
         }
       ]
     },
