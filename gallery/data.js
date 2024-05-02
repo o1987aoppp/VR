@@ -91,25 +91,25 @@ var APP_DATA = {
         {
           "yaw": 1.2047631580917706,
           "pitch": -0.03150653809333903,
-          "title": "R32 GT-R",
+          "title": "Skyline GT-R (R32)",
           "text": "第三代Skyline GT-R(代號R32)，使用RB26DETT雙渦輪增壓引擎與五速手動變速箱，並配備Attesa ETS四輪驅動系統。"
         },
         {
           "yaw": 2.452156129391719,
           "pitch": 0.4268266286010878,
-          "title": "350Z Roadster",
+          "title": "Fairlady Z (Z33) Roadster",
           "text": "第五代 Fairlady Z (代號Z33)，使用VQ35DE V6自然進氣引擎搭配五速手動變速箱，於2004年推出Roadster版本"
         },
         {
           "yaw": -0.23495886651439157,
           "pitch": 0.25207057807594424,
-          "title": "Fairlady Z",
+          "title": "Fairlady Z (Z29)",
           "text": "第一代 Fairlady Z (代號S30/Z29)，使用L20A 2.0升直列六缸引擎搭配五速手動變速箱。<br>外銷至美國的版本名為Datsun 240Z，使用L24A 2.4升值列六缸引擎。"
         },
         {
           "yaw": -0.2705056082645587,
           "pitch": 0.6318576656682833,
-          "title": "Z32",
+          "title": "Fairlady Z (Z32)",
           "text": "第四代 Fairlady Z (代號Z32)，使用VG30DETT V6雙渦輪增壓引擎搭配五速手動和四速自動變速箱。引擎馬力預設原可到達300hp左右，但因日本推出君子協定使馬力下修至280hp，也是第一台向君子協定妥協的性能車。"
         }
       ]
@@ -172,8 +172,8 @@ var APP_DATA = {
         {
           "yaw": -2.0278515739302385,
           "pitch": 0.061446738587905614,
-          "title": "Title",
-          "text": "Text"
+          "title": "Nissan GT-R",
+          "text": "Nissan GT-R (代號R35)，使用VR38DETT V6雙渦輪增壓引擎與6速雙離合變速箱。並搭配源自於Skyline GT-R車系的Attesa-ETS四輪驅動系統。在2013年時於Nurburgring創下7分08秒的日本車最速紀錄(Nismo車型)。"
         }
       ]
     },
@@ -217,7 +217,7 @@ var APP_DATA = {
         {
           "yaw": -1.9971394689719109,
           "pitch": -0.013182761278066835,
-          "title": "Title",
+          "title": "Fairlady Z",
           "text": "Text"
         }
       ]
